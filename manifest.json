@@ -1,0 +1,15 @@
+{
+    "name": "Smart Contract Tools",
+    "version": "1.0",
+    "manifest_version": 2,
+    "description": "Improved context menu for tokens",
+    "permissions": [
+      "contextMenus"
+     ],
+	   "icons": {
+    "128": "128.png"
+     },
+    "background": { 
+      "scripts": ["script.js"]
+    }
+}
